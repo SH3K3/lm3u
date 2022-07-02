@@ -59,7 +59,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://138.117.4.70:8075/channelKado/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="SELECCION SH3K3",UNICABLE
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41527
-#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="SELECCION SH3K3",MEXICO : MULTIMEDIOS MTY
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="SELECCION SH3K3",MULTIMEDIOS MTY
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41502
 #EXTINF:-1 tvg-id="" tvg-name=" ORBIT TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="SELECCION SH3K3", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w679758418.m3u8
@@ -75,7 +75,7 @@ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41516
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41515
 #EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO 1" tvg-logo="https://i.ibb.co/VBzKGK3/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",HBO 1
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41522
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="SELECCION SH3K3",[SD:] CINE - HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="SELECCION SH3K3",HBO 2
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41015
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1651px-HBO_Family.svg.png" group-title="SELECCION SH3K3",HBO FAMILY
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41016
