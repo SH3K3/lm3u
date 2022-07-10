@@ -20,7 +20,7 @@ http://138.117.4.70:8075/Channel12/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/viva-nicaragua-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 13
 http://138.117.4.70:8075/channel132/playlist.m3u8
 #EXTINF:-1 tvg-id="VOSTV" tvg-name="Canal 14 VOS TV" tvg-logo="https://www.vostv.com.ni/static/images/logo.png" group-title="SELECCION SH3K3",Canal 14 VOS TV
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/11896
+http://138.117.4.70:8075/Channel14/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Canal_15_Nicarag%C3%BCense_2019.png" group-title="SELECCION SH3K3 ",CANAL 15
 http://138.117.4.70:8075/channel15/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TVNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="SELECCION SH3K3",TVNOVELAS
@@ -29,12 +29,46 @@ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/3963
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54587
 #EXTINF:-1 tvg-id="ENLACE NICARAGUA" tvg-name="CANAL 21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20210330232626&path-prefix=es" group-title="SELECCION SH3K3 ",CANAL 21
 http://138.117.4.70:8075/channel21/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Canal 23" tvg-logo="" group-title="SELECCION SH3K3 ", Canal 23
+http://138.117.4.70:8075/channel23/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JBN CANAL39" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoAytx9J2jeyoaJGK3acgABryY2kA9EpQnr58hUhV9A6gn32wb" group-title="SELECCION SH3K3 ", JBN CANAL39
 http://138.117.4.70:8075/channeljbn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MGATV" tvg-logo="https://fastly.4sqi.net/img/general/200x200/47971301eq40OiDpEeB8yaVbuko.jpg" group-title="SELECCION SH3K3 ", MGATV
 http://138.117.4.70:8075/Alma/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAKA PAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="SELECCION SH3K3 ",PAKA PAKA
+http://138.117.4.70:8075/Canal50_paka/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Jr" tvg-logo="" group-title="SELECCION SH3K3 ",Planeta Jr
+http://138.117.4.70:8075/Canal51_PlanetaJr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Xabarin" tvg-logo="" group-title="SELECCION SH3K3 ", Xabarin
+http://138.117.4.70:8075/Canal52_Xabarin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Aztv" tvg-logo="" group-title="SELECCION SH3K3 ", Aztv
+http://138.117.4.70:8075/Canal55_Aztv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Santa Fe" tvg-logo="" group-title="SELECCION SH3K3 ", Santa Fe
+http://138.117.4.70:8075/Canal60_SnFe/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Tele Red" tvg-logo="" group-title="SELECCION SH3K3 ", Tele Red
+http://138.117.4.70:8075/Canal61_Telered/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Retroplay" tvg-logo="" group-title="SELECCION SH3K3 ", Retroplay
+http://138.117.4.70:8075/Canal62_Retroplay/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Ticavision" tvg-logo="" group-title="SELECCION SH3K3 ", Ticavision
+http://138.117.4.70:8075/Canal70_Ticavision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wow Tv" tvg-logo="" group-title="SELECCION SH3K3 ", Wow Tv
+http://138.117.4.70:8075/Canal71_wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TelesurCR" tvg-logo="" group-title="SELECCION SH3K3 ", TelesurCR
+http://138.117.4.70:8075/Canal72_TelesurCR/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" RakutenTV " tvg-logo="" group-title="SELECCION SH3K3 ", RakutenTV
+http://138.117.4.70:8075/Canal73_RakutenTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvpop" tvg-logo="" group-title="SELECCION SH3K3 ", tvpop
+http://138.117.4.70:8075/Canal80_tvpop/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 38 CR" tvg-logo="" group-title="SELECCION SH3K3 ", Canal 38 CR
+http://138.117.4.70:8075/Canal81_CR38/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retroplus" tvg-logo="" group-title="SELECCION SH3K3 ", Retroplus
+http://138.117.4.70:8075/Canal82_Retroplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL 22 Ar" tvg-logo="" group-title="SELECCION SH3K3 ", CANAL 22 Ar
+http://138.117.4.70:8075/Canal85_Argentina22/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DWnoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="SELECCION SH3K3 ", DWnoticias
+http://138.117.4.70:8075/Canal86_DWnoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Solidaria " tvg-logo="" group-title="SELECCION SH3K3 ",Solidaria
+http://138.117.4.70:8075/Canal90_Solidaria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="SELECCION SH3K3",BABY TV
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41019
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="SELECCION SH3K3", TOONCAST
@@ -145,8 +179,6 @@ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41025
 http://138.117.4.70:8075/m3u8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="SELECCION SH3K3",CNN
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41036
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="SELECCION SH3K3",DW
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41504
 #EXTINF:-1 tvg-id="" tvg-name="EL FINANCIERO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pEl3wRknL.png" group-title="SELECCION SH3K3",EL FINANCIERO
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41503
 #EXTINF:-1 tvg-id="" tvg-name="A&E LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="SELECCION SH3K3",A&E LATINO
