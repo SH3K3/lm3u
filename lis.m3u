@@ -18,7 +18,7 @@ http://138.117.4.70:8075/channel11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NI-CANAL 12" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/canal-12-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 12
 http://138.117.4.70:8075/Channel12/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/viva-nicaragua-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 13
-http://138.117.4.70:8075/channel132/playlist.m3u8
+http://nicatv.rylco.com:8075/Channel13/playlist.m3u8
 #EXTINF:-1 tvg-id="VOSTV" tvg-name="Canal 14 VOS TV" tvg-logo="https://www.vostv.com.ni/static/images/logo.png" group-title="SELECCION SH3K3",Canal 14 VOS TV
 http://138.117.4.70:8075/Channel14/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Canal_15_Nicarag%C3%BCense_2019.png" group-title="SELECCION SH3K3 ",CANAL 15
