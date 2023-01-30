@@ -1,253 +1,259 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CDM INTERNACIONAL" tvg-logo="" group-title="SELECCION SH3K3",CDM INTERNACIONAL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/26131
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png" group-title="SELECCION SH3K3",Canal 2
-http://138.117.4.70:8075/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 4" tvg-name="Canal 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Canal_4_Nicaragua_2003_1.png" group-title="SELECCION SH3K3",Canal 4 
-http://138.117.4.70:8075/channel4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="SELECCION SH3K3",Canal 6
-http://138.117.4.70:8075/channel6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="SELECCION SH3K3",Canal 8
-http://138.117.4.70:8075/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://logos.fandom.com/wiki/Canal_9_(Nicaragua)?file=Canal9Nicaragua3D.png" group-title="SELECCION SH3K3",Canal 9
-http://nicatv.rylco.com:8075/channel9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://1.bp.blogspot.com/-dCX-NBEP-To/XFJ7jdkdjHI/AAAAAAAAFLw/1eMUnByAm4knwbvirJTSq5xS6XFlYWsBQCLcBGAs/s1600/Canal_10_Nicaragua_1997.png" group-title="SELECCION SH3K3",Canal 10
-http://138.117.4.70:8075/channel10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/tv-red-canal-11-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 11
-http://138.117.4.70:8075/channel11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NI-CANAL 12" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/canal-12-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 12
-http://138.117.4.70:8075/Channel12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/viva-nicaragua-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 13
-http://nicatv.rylco.com:8075/Channel13/playlist.m3u8
-#EXTINF:-1 tvg-id="VOSTV" tvg-name="Canal 14 VOS TV" tvg-logo="https://www.vostv.com.ni/static/images/logo.png" group-title="SELECCION SH3K3",Canal 14 VOS TV
-http://138.117.4.70:8075/Channel14/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Canal_15_Nicarag%C3%BCense_2019.png" group-title="SELECCION SH3K3 ",CANAL 15
-http://138.117.4.70:8075/channel15/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TVNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="SELECCION SH3K3",TVNOVELAS
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/3963
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELLAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="SELECCION SH3K3",ESTRELLAS
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54587
-#EXTINF:-1 tvg-id="ENLACE NICARAGUA" tvg-name="CANAL 21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20210330232626&path-prefix=es" group-title="SELECCION SH3K3 ",CANAL 21
-http://138.117.4.70:8075/channel21/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 23" tvg-logo="" group-title="SELECCION SH3K3 ", Canal 23
-http://138.117.4.70:8075/channel23/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JBN CANAL39" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoAytx9J2jeyoaJGK3acgABryY2kA9EpQnr58hUhV9A6gn32wb" group-title="SELECCION SH3K3 ", JBN CANAL39
-http://138.117.4.70:8075/channeljbn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MGATV" tvg-logo="https://fastly.4sqi.net/img/general/200x200/47971301eq40OiDpEeB8yaVbuko.jpg" group-title="SELECCION SH3K3 ", MGATV
-http://138.117.4.70:8075/Alma/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAKA PAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="SELECCION SH3K3 ",PAKA PAKA
-http://138.117.4.70:8075/Canal50_paka/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Planeta Jr" tvg-logo="" group-title="SELECCION SH3K3 ",Planeta Jr
-http://138.117.4.70:8075/Canal51_PlanetaJr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Xabarin" tvg-logo="" group-title="SELECCION SH3K3 ", Xabarin
-http://138.117.4.70:8075/Canal52_Xabarin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Aztv" tvg-logo="" group-title="SELECCION SH3K3 ", Aztv
-http://138.117.4.70:8075/Canal55_Aztv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santa Fe" tvg-logo="" group-title="SELECCION SH3K3 ", Santa Fe
-http://138.117.4.70:8075/Canal60_SnFe/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Tele Red" tvg-logo="" group-title="SELECCION SH3K3 ", Tele Red
-http://138.117.4.70:8075/Canal61_Telered/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Retroplay" tvg-logo="" group-title="SELECCION SH3K3 ", Retroplay
-http://138.117.4.70:8075/Canal62_Retroplay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Ticavision" tvg-logo="" group-title="SELECCION SH3K3 ", Ticavision
-http://138.117.4.70:8075/Canal70_Ticavision/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wow Tv" tvg-logo="" group-title="SELECCION SH3K3 ", Wow Tv
-http://138.117.4.70:8075/Canal71_wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TelesurCR" tvg-logo="" group-title="SELECCION SH3K3 ", TelesurCR
-http://138.117.4.70:8075/Canal72_TelesurCR/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" RakutenTV " tvg-logo="" group-title="SELECCION SH3K3 ", RakutenTV
-http://138.117.4.70:8075/Canal73_RakutenTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tvpop" tvg-logo="" group-title="SELECCION SH3K3 ", tvpop
-http://138.117.4.70:8075/Canal80_tvpop/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 38 CR" tvg-logo="" group-title="SELECCION SH3K3 ", Canal 38 CR
-http://138.117.4.70:8075/Canal81_CR38/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retroplus" tvg-logo="" group-title="SELECCION SH3K3 ", Retroplus
-http://138.117.4.70:8075/Canal82_Retroplus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" CANAL 22 Ar" tvg-logo="" group-title="SELECCION SH3K3 ", CANAL 22 Ar
-http://138.117.4.70:8075/Canal85_Argentina22/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DWnoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="SELECCION SH3K3 ", DWnoticias
-http://138.117.4.70:8075/Canal86_DWnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Solidaria " tvg-logo="" group-title="SELECCION SH3K3 ",Solidaria
-http://138.117.4.70:8075/Canal90_Solidaria/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="SELECCION SH3K3",BABY TV
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41019
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="SELECCION SH3K3", TOONCAST
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/64023
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoonito.png" group-title="SELECCION SH3K3",CARTOONITO
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41020
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title=" SELECCION SH3K3",Cartoon Network SD
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/16638
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/267px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="SELECCION SH3K3",DISCOVERY KIDS
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41002
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="SELECCION SH3K3",DISNEY CHANNEL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41006
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="SELECCION SH3K3",DISNEY JUNIOR
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41003
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="SELECCION SH3K3",NICK JR
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41001
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="SELECCION SH3K3",NICKELODEON
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41004
-#EXTINF:-1 tvg-id="LOCOMOTION" tvg-name="Locomotion CANAL41" tvg-logo="https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/field/image/article/locomotiontv-radionica.jpg" group-title="SELECCION SH3K3 ", Locomotion canal41
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kado" tvg-logo="" group-title="SELECCION SH3K3 ", Kado
-http://138.117.4.70:8075/channelKado/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="SELECCION SH3K3",UNICABLE
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41527
-#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="SELECCION SH3K3",MULTIMEDIOS MTY
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41502
-#EXTINF:-1 tvg-id="" tvg-name=" ORBIT TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="SELECCION SH3K3", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w679758418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="SELECCION SH3K3",CINE LATINO
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41509
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="SELECCION SH3K3",CINECANAL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41507
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="SELECCION SH3K3",CINEMAX
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41506
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="SELECCION SH3K3",FOX ACCION
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41516
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/0rBBVV9/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",GOLDEN PREMIER
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41515
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO 1" tvg-logo="https://i.ibb.co/VBzKGK3/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",HBO 1
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41522
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="SELECCION SH3K3",HBO 2
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41015
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1651px-HBO_Family.svg.png" group-title="SELECCION SH3K3",HBO FAMILY
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41016
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/mCtBKcV/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",HBO Plus
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41523
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1894px-HBO_Xtreme.svg.png" group-title="SELECCION SH3K3",HBO XTREME
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41018
-#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://i.ibb.co/488gdKy/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",MC
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41531
-#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" group-title="SELECCION SH3K3",MULTICINEMA
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/72352
-#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="SELECCION SH3K3",MULTIPREMIER
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41532
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOOUNT" tvg-logo="https://i.ibb.co/TvmFx17/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",PARAMOOUNT
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41511
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="SELECCION SH3K3",TNT
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41014
-#EXTINF:-1 tvg-id="" tvg-name="SPACE MX" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="SELECCION SH3K3",SPACE MX
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41027
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="SELECCION SH3K3",GALAVISION
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41529
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="SELECCION SH3K3",LIFETIME
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41526
-#EXTINF:-1 tvg-id="" tvg-name="TELENOVELA PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="SELECCION SH3K3",TELENOVELA PR
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41533
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="SELECCION SH3K3",UNIMAS
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41528
-#EXTINF:-1 tvg-id="" tvg-name="ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="SELECCION SH3K3",ATRES
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41047
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="SELECCION SH3K3",COMEDY CENTRAL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40995
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/398px-E%21_Logo_2012.svg.png" group-title="SELECCION SH3K3",E!
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40994
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/hola-concurso.png" group-title="SELECCION SH3K3",HOLA TV
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41012
-#EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="SELECCION SH3K3",ISAT
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41510
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="SELECCION SH3K3",UNIVISION 
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40980
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="SELECCION SH3K3",PASIONES
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41513
-#EXTINF:-1 tvg-id="" tvg-name="FILM ART" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="SELECCION SH3K3",FILM ART
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/72351
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="SELECCION SH3K3", DISCOVERY THEATER
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54584
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2181px-2018_Animal_Planet_logo.svg.png" group-title="SELECCION SH3K3",ANIMAL PLANET
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41000
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="SELECCION SH3K3",DISCOVERY CHANNEL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40998
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="SELECCION SH3K3",DISCOVERY H&H
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54581
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="SELECCION SH3K3",DISCOVERY ID
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54582
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/300px-TLC_Logo.svg.png" group-title="SELECCION SH3K3",DISCOVERY TLC
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54583
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="SELECCION SH3K3",DISCOVERY TURBO
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54580
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="SELECCION SH3K3",H2
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54585
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1220px-History_Logo.svg.png" group-title="SELECCION SH3K3",HISTORY CHANNEL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40996
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="SELECCION SH3K3",NATIONAL GEOGRAPHIC
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40997
-#EXTINF:-1 tvg-id="" tvg-name="NET GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="SELECCION SH3K3",NET GEO
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41025
-#EXTINF:-1 tvg-id="" tvg-name="RT NOTICIAS" tvg-logo="https://actualidad.rt.com/static/img/og/logo-rt-black.jpg" group-title="SELECCION SH3K3", RT NOTICIAS
-http://138.117.4.70:8075/m3u8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="SELECCION SH3K3",CNN
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41036
-#EXTINF:-1 tvg-id="" tvg-name="EL FINANCIERO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pEl3wRknL.png" group-title="SELECCION SH3K3",EL FINANCIERO
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41503
-#EXTINF:-1 tvg-id="" tvg-name="A&E LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="SELECCION SH3K3",A&E LATINO
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40983
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="SELECCION SH3K3",AXN
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40988
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="SELECCION SH3K3", STAR CHANNEL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40981
-#EXTINF:-1 tvg-id="" tvg-name="FX " tvg-logo="https://i.ibb.co/6sg7VMK/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",FX 
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40982
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sony_Pictures_Television_logo.svg/722px-Sony_Pictures_Television_logo.svg.png" group-title="SELECCION SH3K3",SONY
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40991
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="SELECCION SH3K3",STUDIO UNIVERSAL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40992
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/2560px-SYFY.svg.png" group-title="SELECCION SH3K3",SYFY
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40986
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/2375px-TBS_logo_2016.svg.png" group-title="SELECCION SH3K3",TBS
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40985
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SELECCION SH3K3",TNT SERIES
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40993
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/2418px-Universal_Pictures_logo.svg.png" group-title="SELECCION SH3K3",UNIVERSAL
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40989
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SELECCION SH3K3",Warner
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40990
-#EXTINF:-1 tvg-id="" tvg-name="BRAVO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="SELECCION SH3K3",BRAVO TV
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41035
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="SELECCION SH3K3",NBCSN
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54592
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1200px-UNIVERSO_LOGO_color_black.png" group-title="SELECCION SH3K3",UNIVERSO
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54589
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/4/47/1200px-Discovery_Family_logo.svg.png" group-title="SELECCION SH3K3",DISCOVERY FAMILY
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41034
-#EXTINF:-1 tvg-id="" tvg-name="FOODN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="SELECCION SH3K3",FOODN
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41033
-#EXTINF:-1 tvg-id="" tvg-name="88.7 STERIO" tvg-logo="" group-title="SELECCION SH3K3", 88.7 STERIO
-http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w462234939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://tvonenicaragua.com/wp-content/uploads/2020/02/logo-central-correcto2.png" group-title="SELECCION SH3K3 ",TV ONE
-http://138.117.4.70:8075/channeltvone/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGABOX" tvg-logo="https://fastly.4sqi.net/img/general/200x200/47971301_pIGBHttCz_xsvwAJzsTBBljYeq40OiDpEeB8yaVbuko.jpg" group-title="SELECCION SH3K3 ",MEGABOX
-http://138.117.4.70:8075/Megabox/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAROCK 22" tvg-logo="https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/277755150_392517249543920_4823448017837777936_n.jpg" group-title="SELECCION SH3K3 ",LAROCK 22
-http://138.117.4.70:8075/channel22/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/mtv-logo.png" group-title="SELECCION SH3K3",MTV 
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41029
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="SELECCION SH3K3",VH1
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41030
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITLIST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="SELECCION SH3K3",MTV HITLIST
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41028
-#EXTINF:-1 tvg-id="" tvg-name="VIDEO ROLA" tvg-logo="https://iconape.com/wp-content/files/bv/363063/png/363063.png" group-title="SELECCION SH3K3",VIDEO ROLA
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41031
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="SELECCION SH3K3",ESPN 1
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41499
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SELECCION SH3K3", ESPN 2
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41501
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="SELECCION SH3K3",ESPN EXTRA
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41500
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 720 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SELECCION SH3K3",BEIN SPORT 720 HD
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54590
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="SELECCION SH3K3",CLARO SPORT
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41011
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="SELECCION SH3K3",ESPN
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41010
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="SELECCION SH3K3",ESPN 2
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41009
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="SELECCION SH3K3",ESPN 3
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41008
-#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="SELECCION SH3K3",ESPN DEPORTES
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41023
-#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://i.ibb.co/VLG8mSm/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",MLB
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41494
-#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/1920px-NBA_script.svg.png" group-title="SELECCION SH3K3",NBA
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41495
+#EXTM3U 
+ #EXTINF:-1 tvg-id="" tvg-name="CDM INTERNACIONAL" tvg-logo="" group-title="SELECCION SH3K3",CDM INTERNACIONAL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/26131 
+ #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png" group-title="SELECCION SH3K3",Canal 2 
+http://nicatv.rylco.com:8075/Canal02_CooTel/playlist.m3u8
+ #EXTINF:-1 tvg-id="Canal 4" tvg-name="Canal 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Canal_4_Nicaragua_2003_1.png" group-title="SELECCION SH3K3",Canal 4  
+ http://nicatv.rylco.com:8075/Canal04_CooTel/playlist.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="SELECCION SH3K3",Canal 6 
+http://nicatv.rylco.com:8075/Canal06_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" group-title="SELECCION SH3K3",Canal 8 
+ http://nicatv.rylco.com:8075/Canal08_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://logos.fandom.com/wiki/Canal_9_(Nicaragua)?file=Canal9Nicaragua3D.png" group-title="SELECCION SH3K3",Canal 9 
+ http://nicatv.rylco.com:8075/Canal09_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://1.bp.blogspot.com/-dCX-NBEP-To/XFJ7jdkdjHI/AAAAAAAAFLw/1eMUnByAm4knwbvirJTSq5xS6XFlYWsBQCLcBGAs/s1600/Canal_10_Nicaragua_1997.png" group-title="SELECCION SH3K3",Canal 10 
+ http://nicatv.rylco.com:8075/Canal10_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/tv-red-canal-11-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 11 
+ http://nicatv.rylco.com:8075/Canal11_CooTel/playlist.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="NI-CANAL 12" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/canal-12-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 12 
+ http://nicatv.rylco.com:8075/Canal09_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/viva-nicaragua-300x300.jpg" group-title="SELECCION SH3K3 ",CANAL 13 
+ http://nicatv.rylco.com:8075/Canal13_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="VOSTV" tvg-name="Canal 14 VOS TV" tvg-logo="https://www.vostv.com.ni/static/images/logo.png" group-title="SELECCION SH3K3",Canal 14 VOS TV 
+ http://nicatv.rylco.com:8075/Channel14/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="CANAL 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Canal_15_Nicarag%C3%BCense_2019.png" group-title="SELECCION SH3K3 ",CANAL 15 
+ http://nicatv.rylco.com:8075/Canal15_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" TVNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="SELECCION SH3K3",TVNOVELAS 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/3963 
+ #EXTINF:-1 tvg-id="" tvg-name="ESTRELLAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="SELECCION SH3K3",ESTRELLAS 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54587 
+ #EXTINF:-1 tvg-id="ENLACE NICARAGUA" tvg-name="CANAL 21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20210330232626&path-prefix=es" group-title="SELECCION SH3K3 ",CANAL 21 
+ http://nicatv.rylco.com:8075/Canal21_CooTel/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="LAROCK 22" tvg-logo="https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/277755150_392517249543920_4823448017837777936_n.jpg" group-title="SELECCION SH3K3 ",LAROCK 22 
+http://nicatv.rylco.com:8075/Canal22_CooTel/playlist.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="Canal 23" tvg-logo="" group-title="SELECCION SH3K3 ", Canal 23 
+ http://nicatv.rylco.com:8075/Canal23_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="JBN CANAL39" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoAytx9J2jeyoaJGK3acgABryY2kA9EpQnr58hUhV9A6gn32wb" group-title="SELECCION SH3K3 ", JBN CANAL39 
+ http://138.117.4.70:8075/channeljbn/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="MGATV" tvg-logo="https://fastly.4sqi.net/img/general/200x200/47971301eq40OiDpEeB8yaVbuko.jpg" group-title="SELECCION SH3K3 ", MGATV 
+ http://nicatv.rylco.com:8075/Canal39_CooTel/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="PAKA PAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="SELECCION SH3K3 ",PAKA PAKA 
+ http://138.117.4.70:8075/Canal50_paka/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Planeta Jr" tvg-logo="" group-title="SELECCION SH3K3 ",Planeta Jr 
+ http://138.117.4.70:8075/Canal51_PlanetaJr/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" Xabarin" tvg-logo="" group-title="SELECCION SH3K3 ", Xabarin 
+ http://138.117.4.70:8075/Canal52_Xabarin/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" Aztv" tvg-logo="" group-title="SELECCION SH3K3 ", Aztv 
+ http://138.117.4.70:8075/Canal55_Aztv/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Santa Fe" tvg-logo="" group-title="SELECCION SH3K3 ", Santa Fe 
+ http://138.117.4.70:8075/Canal60_SnFe/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" Tele Red" tvg-logo="" group-title="SELECCION SH3K3 ", Tele Red 
+ http://138.117.4.70:8075/Canal61_Telered/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" Retroplay" tvg-logo="" group-title="SELECCION SH3K3 ", Retroplay 
+ http://138.117.4.70:8075/Canal62_Retroplay/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" Ticavision" tvg-logo="" group-title="SELECCION SH3K3 ", Ticavision 
+ http://138.117.4.70:8075/Canal70_Ticavision/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Wow Tv" tvg-logo="" group-title="SELECCION SH3K3 ", Wow Tv 
+ http://138.117.4.70:8075/Canal71_wowtv/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" TelesurCR" tvg-logo="" group-title="SELECCION SH3K3 ", TelesurCR 
+ http://138.117.4.70:8075/Canal72_TelesurCR/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" RakutenTV " tvg-logo="" group-title="SELECCION SH3K3 ", RakutenTV 
+ http://138.117.4.70:8075/Canal73_RakutenTV/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="tvpop" tvg-logo="" group-title="SELECCION SH3K3 ", tvpop 
+ http://138.117.4.70:8075/Canal80_tvpop/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Canal 38 CR" tvg-logo="" group-title="SELECCION SH3K3 ", Canal 38 CR 
+ http://138.117.4.70:8075/Canal81_CR38/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Retroplus" tvg-logo="" group-title="SELECCION SH3K3 ", Retroplus 
+ http://138.117.4.70:8075/Canal82_Retroplus/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name=" CANAL 22 Ar" tvg-logo="" group-title="SELECCION SH3K3 ", CANAL 22 Ar 
+ http://138.117.4.70:8075/Canal85_Argentina22/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="DWnoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="SELECCION SH3K3 ", DWnoticias 
+ http://138.117.4.70:8075/Canal86_DWnoticias/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Solidaria " tvg-logo="" group-title="SELECCION SH3K3 ",Solidaria 
+ http://138.117.4.70:8075/Canal90_Solidaria/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="ENLACE EJTV" tvg-logo="" group-title="SELECCION SH3K3 ", ENLACE EJTV 
+http://nicatv.rylco.com:8075/Canal92_EJTV/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE INTERNACIONAL" tvg-logo="" group-title="SELECCION SH3K3 ", ENLACE INTERNACIONAL 
+http://us1freenew.listen2myradio.com:36850/ 
+ #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="SELECCION SH3K3",BABY TV 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41019 
+ #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="SELECCION SH3K3", TOONCAST 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/64023 
+ #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoonito.png" group-title="SELECCION SH3K3",CARTOONITO 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41020 
+ #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title=" SELECCION SH3K3",Cartoon Network SD 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/16638 
+ #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/267px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="SELECCION SH3K3",DISCOVERY KIDS 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41002 
+ #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="SELECCION SH3K3",DISNEY CHANNEL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41006 
+ #EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="SELECCION SH3K3",DISNEY JUNIOR 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41003 
+ #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="SELECCION SH3K3",NICK JR 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41001 
+ #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="SELECCION SH3K3",NICKELODEON 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41004 
+ #EXTINF:-1 tvg-id="LOCOMOTION" tvg-name="Locomotion CANAL41" tvg-logo="https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/field/image/article/locomotiontv-radionica.jpg" group-title="SELECCION SH3K3 ", Locomotion canal41 
+ http://51.222.85.85:81/hls/loco/index.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="Kado" tvg-logo="" group-title="SELECCION SH3K3 ", Kado 
+ http://138.117.4.70:8075/channelKado/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="SELECCION SH3K3",UNICABLE 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41527 
+ #EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="SELECCION SH3K3",MULTIMEDIOS MTY 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41502 
+ #EXTINF:-1 tvg-id="" tvg-name=" ORBIT TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="SELECCION SH3K3", ORBIT TV 
+ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w679758418.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="SELECCION SH3K3",CINE LATINO 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41509 
+ #EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="SELECCION SH3K3",CINECANAL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41507 
+ #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="SELECCION SH3K3",CINEMAX 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41506 
+ #EXTINF:-1 tvg-id="" tvg-name="FOX ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="SELECCION SH3K3",FOX ACCION 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41516 
+ #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/0rBBVV9/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",GOLDEN PREMIER 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41515 
+ #EXTINF:-1 tvg-id="" tvg-name="[SD:] CINE - HBO 1" tvg-logo="https://i.ibb.co/VBzKGK3/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",HBO 1 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41522 
+ #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="SELECCION SH3K3",HBO 2 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41015 
+ #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1651px-HBO_Family.svg.png" group-title="SELECCION SH3K3",HBO FAMILY 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41016 
+ #EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/mCtBKcV/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",HBO Plus 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41523 
+ #EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1894px-HBO_Xtreme.svg.png" group-title="SELECCION SH3K3",HBO XTREME 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41018 
+ #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://i.ibb.co/488gdKy/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",MC 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41531 
+ #EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" group-title="SELECCION SH3K3",MULTICINEMA 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/72352 
+ #EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="SELECCION SH3K3",MULTIPREMIER 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41532 
+ #EXTINF:-1 tvg-id="" tvg-name="PARAMOOUNT" tvg-logo="https://i.ibb.co/TvmFx17/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",PARAMOOUNT 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41511 
+ #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="SELECCION SH3K3",TNT 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41014 
+ #EXTINF:-1 tvg-id="" tvg-name="SPACE MX" tvg-logo="http://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="SELECCION SH3K3",SPACE MX 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41027 
+ #EXTINF:-1 tvg-id="" tvg-name="GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="SELECCION SH3K3",GALAVISION 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41529 
+ #EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="SELECCION SH3K3",LIFETIME 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41526 
+ #EXTINF:-1 tvg-id="" tvg-name="TELENOVELA PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="SELECCION SH3K3",TELENOVELA PR 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41533 
+ #EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="SELECCION SH3K3",UNIMAS 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41528 
+ #EXTINF:-1 tvg-id="" tvg-name="ATRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="SELECCION SH3K3",ATRES 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41047 
+ #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="SELECCION SH3K3",COMEDY CENTRAL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40995 
+ #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/398px-E%21_Logo_2012.svg.png" group-title="SELECCION SH3K3",E! 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40994 
+ #EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/hola-concurso.png" group-title="SELECCION SH3K3",HOLA TV 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41012 
+ #EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="SELECCION SH3K3",ISAT 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41510 
+ #EXTINF:-1 tvg-id="" tvg-name="UNIVISION " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="SELECCION SH3K3",UNIVISION  
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40980 
+ #EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="SELECCION SH3K3",PASIONES 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41513 
+ #EXTINF:-1 tvg-id="" tvg-name="FILM ART" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="SELECCION SH3K3",FILM ART 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/72351 
+ #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="SELECCION SH3K3", DISCOVERY THEATER 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54584 
+ #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2181px-2018_Animal_Planet_logo.svg.png" group-title="SELECCION SH3K3",ANIMAL PLANET 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41000 
+ #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="SELECCION SH3K3",DISCOVERY CHANNEL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40998 
+ #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="SELECCION SH3K3",DISCOVERY H&H 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54581 
+ #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="SELECCION SH3K3",DISCOVERY ID 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54582 
+ #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/300px-TLC_Logo.svg.png" group-title="SELECCION SH3K3",DISCOVERY TLC 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54583 
+ #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="SELECCION SH3K3",DISCOVERY TURBO 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54580 
+ #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="SELECCION SH3K3",H2 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54585 
+ #EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1220px-History_Logo.svg.png" group-title="SELECCION SH3K3",HISTORY CHANNEL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40996 
+ #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="SELECCION SH3K3",NATIONAL GEOGRAPHIC 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40997 
+ #EXTINF:-1 tvg-id="" tvg-name="NET GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="SELECCION SH3K3",NET GEO 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41025 
+ #EXTINF:-1 tvg-id="" tvg-name="RT NOTICIAS" tvg-logo="https://actualidad.rt.com/static/img/og/logo-rt-black.jpg" group-title="SELECCION SH3K3", RT NOTICIAS 
+ http://138.117.4.70:8075/m3u8/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="SELECCION SH3K3",CNN 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41036 
+ #EXTINF:-1 tvg-id="" tvg-name="EL FINANCIERO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61pEl3wRknL.png" group-title="SELECCION SH3K3",EL FINANCIERO 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41503 
+ #EXTINF:-1 tvg-id="" tvg-name="A&E LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="SELECCION SH3K3",A&E LATINO 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40983 
+ #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="SELECCION SH3K3",AXN 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40988 
+ #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="SELECCION SH3K3", STAR CHANNEL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40981 
+ #EXTINF:-1 tvg-id="" tvg-name="FX " tvg-logo="https://i.ibb.co/6sg7VMK/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",FX  
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40982 
+ #EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sony_Pictures_Television_logo.svg/722px-Sony_Pictures_Television_logo.svg.png" group-title="SELECCION SH3K3",SONY 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40991 
+ #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="SELECCION SH3K3",STUDIO UNIVERSAL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40992 
+ #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/2560px-SYFY.svg.png" group-title="SELECCION SH3K3",SYFY 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40986 
+ #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/2375px-TBS_logo_2016.svg.png" group-title="SELECCION SH3K3",TBS 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40985 
+ #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SELECCION SH3K3",TNT SERIES 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40993 
+ #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/2418px-Universal_Pictures_logo.svg.png" group-title="SELECCION SH3K3",UNIVERSAL 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40989 
+ #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SELECCION SH3K3",Warner 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40990 
+ #EXTINF:-1 tvg-id="" tvg-name="BRAVO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="SELECCION SH3K3",BRAVO TV 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41035 
+ #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="SELECCION SH3K3",NBCSN 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54592 
+ #EXTINF:-1 tvg-id="" tvg-name="UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1200px-UNIVERSO_LOGO_color_black.png" group-title="SELECCION SH3K3",UNIVERSO 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54589 
+ #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/4/47/1200px-Discovery_Family_logo.svg.png" group-title="SELECCION SH3K3",DISCOVERY FAMILY 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41034 
+ #EXTINF:-1 tvg-id="" tvg-name="FOODN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="SELECCION SH3K3",FOODN 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41033 
+ #EXTINF:-1 tvg-id="" tvg-name="88.7 STERIO" tvg-logo="" group-title="SELECCION SH3K3", 88.7 STERIO 
+ http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w462234939.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://tvonenicaragua.com/wp-content/uploads/2020/02/logo-central-correcto2.png" group-title="SELECCION SH3K3 ",TV ONE 
+ http://138.117.4.70:8075/channeltvone/playlist.m3u8 
+ #EXTINF:-1 tvg-id="" tvg-name="MEGABOX" tvg-logo="https://fastly.4sqi.net/img/general/200x200/47971301_pIGBHttCz_xsvwAJzsTBBljYeq40OiDpEeB8yaVbuko.jpg" group-title="SELECCION SH3K3 ",MEGABOX 
+ http://138.117.4.70:8075/Megabox/playlist.m3u8 
+ 
+
+ #EXTINF:-1 tvg-id="" tvg-name="MTV " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/mtv-logo.png" group-title="SELECCION SH3K3",MTV  
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41029 
+ #EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="SELECCION SH3K3",VH1 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41030 
+ #EXTINF:-1 tvg-id="" tvg-name="MTV HITLIST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="SELECCION SH3K3",MTV HITLIST 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41028 
+ #EXTINF:-1 tvg-id="" tvg-name="VIDEO ROLA" tvg-logo="https://iconape.com/wp-content/files/bv/363063/png/363063.png" group-title="SELECCION SH3K3",VIDEO ROLA 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41031 
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="SELECCION SH3K3",ESPN 1 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41499 
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="SELECCION SH3K3", ESPN 2 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41501 
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="SELECCION SH3K3",ESPN EXTRA 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41500 
+ #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 720 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SELECCION SH3K3",BEIN SPORT 720 HD 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/54590 
+ #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="SELECCION SH3K3",CLARO SPORT 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41011 
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="SELECCION SH3K3",ESPN 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41010 
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="SELECCION SH3K3",ESPN 2 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41009 
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="SELECCION SH3K3",ESPN 3 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41008 
+ #EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="SELECCION SH3K3",ESPN DEPORTES 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41023 
+ #EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://i.ibb.co/VLG8mSm/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",MLB 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41494 
+ #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/1920px-NBA_script.svg.png" group-title="SELECCION SH3K3",NBA 
+ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41495
