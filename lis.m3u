@@ -104,7 +104,7 @@ http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/41006
 #EXTINF:-1 tvg-id="Disney" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1200px-Disney_wordmark.svg.png" group-title="NIÑOS",DISNEY CHANNEL SD*
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/16653
 #EXTINF:-1 tvg-id="BITMEH" tvg-name="NIÑOS: BITME HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s72801_ll_h3_ab.png" group-title="NIÑOS",NIÑOS: BITME HD MX
-http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/8064
+https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #EXTINF:-1 tvg-id="CINEMA: TNT SD*" tvg-name="NIÑOS: Boomerang HD .." tvg-logo="https://cn.i.cdn.ti-platform.com/content/1057/boomerang/showpage/ar/boomerang.9b80d70b.png" group-title="NIÑOS",NIÑOS: Boomerang HD ..
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/16633
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="NIÑOS: Cartoon Network SD ..*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="NIÑOS",NIÑOS: Cartoon Network SD ..*
