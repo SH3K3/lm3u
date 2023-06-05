@@ -73,7 +73,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
  http://138.117.4.70:8075/Canal52_Xabarin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Canal 37 MEGABOX" tvg-logo="https://fastly.4sqi.net/img/general/200x200/47971301_pIGBHttCz_xsvwAJzsTBBljYeq40OiDpEeB8yaVbuko.jpg" group-title="SH3K3", Canal 37 MEGABOX 
  http://138.117.4.70:8075/Megabox/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 38 NASA" tvg-logo="" group-title="SH3K3", Canal 38 NASA
+#EXTINF:-1 tvg-id="" tvg-name="Canal 38 GALAXYA TV" tvg-logo="" group-title="SH3K3", Canal 38 GALAXYA TV
  http://138.117.4.70:8075/channelKado/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL39 JBN " tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoAytx9J2jeyoaJGK3acgABryY2kA9EpQnr58hUhV9A6gn32wb" group-title="SH3K3",  CANAL39 JBN 
  http://138.117.4.70:8075/channeljbn/playlist.m3u8 
