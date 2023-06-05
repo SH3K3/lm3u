@@ -77,9 +77,8 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
  http://138.117.4.70:8075/channelKado/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL39 JBN " tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoAytx9J2jeyoaJGK3acgABryY2kA9EpQnr58hUhV9A6gn32wb" group-title="SH3K3",  CANAL39 JBN 
  http://138.117.4.70:8075/channeljbn/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name=" Canal 40 CVISIONTV " tvg-logo="https://cvisiontv.com/wp-content/uploads/2022/06/cropped-logo-c-vision.png" group-title="SH3K3",  Canal 40 CVISIONTV
- https://stream.cvisiontv.com/cvision_stream.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 41 Santa Fe" tvg-logo="" group-title="SH3K3", Canal 41 Santa Fe
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 40 Santa Fe" tvg-logo="" group-title="SH3K3", Canal 40 Santa Fe
  http://138.117.4.70:8075/Canal60_SnFe/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="Pasión 102.9 FM Estelí" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVbvXhMQBfFAhEJA5IZVSffMmLnbvRmKiF_gUkGrofg&s" group-title="SH3K3", Pasión 102.9 FM Estelí
@@ -97,14 +96,20 @@ https://sp4.colombiatelecom.com.co/8084/stream
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/121796
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO SD*" tvg-logo="https://comunidadblogger.net/wp-content/uploads/2021/11/Cartoonito-Logo.png" group-title="NIÑOS",CARTOONITO SD*
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/121795
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 40 CVISIONTV " tvg-logo="https://cvisiontv.com/wp-content/uploads/2022/06/cropped-logo-c-vision.png" group-title="SH3K3",  Canal 40 CVISIONTV
+ https://stream.cvisiontv.com/cvision_stream.m3u8 
+
 #EXTINF:-1 tvg-id="DISLAME" tvg-name="DISNEY CHANNEL HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s41223_ll_h3_aa.png" group-title="NIÑOS",DISNEY CHANNEL HD MX
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/430
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="NIÑOS",DISNEY CHANNEL SD MX
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/41006
 #EXTINF:-1 tvg-id="Disney" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_wordmark.svg/1200px-Disney_wordmark.svg.png" group-title="NIÑOS",DISNEY CHANNEL SD*
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/16653
-#EXTINF:-1 tvg-id="BITMEH" tvg-name="NIÑOS: BITME HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s72801_ll_h3_ab.png" group-title="NIÑOS",NIÑOS: BITME HD MX
-https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+#EXTINF:-1 tvg-id="BITMEHD" tvg-name="NIÑOS: BITME HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s72801_ll_h3_ab.png" group-title="NIÑOS",NIÑOS: BITME HD MX
+http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/8064
+
 #EXTINF:-1 tvg-id="CINEMA: TNT SD*" tvg-name="NIÑOS: Boomerang HD .." tvg-logo="https://cn.i.cdn.ti-platform.com/content/1057/boomerang/showpage/ar/boomerang.9b80d70b.png" group-title="NIÑOS",NIÑOS: Boomerang HD ..
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/16633
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="NIÑOS: Cartoon Network SD ..*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title="NIÑOS",NIÑOS: Cartoon Network SD ..*
@@ -133,7 +138,6 @@ http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/64023
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/130693
 #EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu-8jYgw_o3ks1dwK1mjuwxS5GMek9S62Pvm0Q8NhvU=s900-c-k-c0x00ffffff-no-rj" group-title="NIÑOS",SEMILLITAS TV
 http://ui.mrzutv.net:8080/EZEPARRA/nicaratv2023/130682
-
 
 
 
