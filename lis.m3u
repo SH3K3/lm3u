@@ -60,14 +60,15 @@ http://138.117.4.70:8075/Canal73_RakutenTV/playlist.m3u8
 http://138.117.4.70:8075/Canal80_tvpop/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 30 GALAXYA TV" tvg-logo="" group-title="SH3K3", Canal 30 GALAXYA TV
 http://138.117.4.70:8075/channelKado/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Canal 31 Tele Red" tvg-logo="" group-title="SH3K3", Canal 31 Tele Red
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 31 TeleSistema CR" tvg-logo="" group-title="SH3K3", Canal 31 TeleSistema CR
 http://138.117.4.70:8075/Canal61_Telered/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Canal 32 Ticavision" tvg-logo="" group-title="SH3K3", Canal 32 Ticavision http://138.117.4.70:8075/Canal70_Ticavision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 32 Ticavision CR" tvg-logo="" group-title="SH3K3", Canal 32 Ticavision CR
+http://138.117.4.70:8075/Canal70_Ticavision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Canal 33 PEQUERADIO TV" tvg-logo="" group-title="SH3K3", Canal 33 PEQUERADIO TV
 http://nicatv.rylco.com:8075/Canal53_Pequeradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 34 PAKA PAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="SH3K3", Canal 34 PAKA PAKA
 http://138.117.4.70:8075/Canal50_paka/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 35 Planeta Jr" tvg-logo="" group-title="SH3K3",Planeta Jr
+#EXTINF:-1 tvg-id="" tvg-name="Canal 35 Planeta Jr" tvg-logo="" group-title="SH3K3",Canal 35 Planeta Jr
 http://138.117.4.70:8075/Canal51_PlanetaJr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 36 Xabarin" tvg-logo="" group-title="SH3K3", Canal 36 Xabarin
 http://138.117.4.70:8075/Canal52_Xabarin/playlist.m3u8
@@ -85,8 +86,10 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://ui.mrzutv.net:8080/EZEPARRA/sheke2023/41036
 #EXTINF:-1 tvg-id="" tvg-name=" Canal 43 CGTN EN ESPAÑOL" tvg-logo="" group-title="SH3K3", Canal 43 CGTN EN ESPAÑOL
 http://nicatv.rylco.com:8075/Canal89_CGTN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Canal 44DWnoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="SH3K3", Canal 44 DWnoticias http://138.117.4.70:8075/Canal86_DWnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Canal 45 Ar 22" tvg-logo="" group-title="SH3K3", CANAL 45 Ar 22 http://138.117.4.70:8075/Canal85_Argentina22/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 44 DWnoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="SH3K3", Canal 44 DWnoticias 
+http://138.117.4.70:8075/Canal86_DWnoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 45 Ar 22" tvg-logo="" group-title="SH3K3", CANAL 45 Ar 22 
+http://138.117.4.70:8075/Canal85_Argentina22/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 46 Santa Fe" tvg-logo="" group-title="SH3K3", Canal 46 Santa Fe
 http://138.117.4.70:8075/Canal60_SnFe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 47 Extrema CR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoT59Mf25Pfif_ES7l9PvH8YFtSCC08xRRICixb9RpI_P5iU3OHb2yDGVqYbLEnin8C0&usqp=CAU" group-title="SH3K3",Canal 47 Extrema CR
