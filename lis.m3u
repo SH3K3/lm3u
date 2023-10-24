@@ -30,7 +30,8 @@ http://nicatv.rylco.com:8075/Canal13_CooTel/playlist.m3u8
 http://nicatv.rylco.com:8075/Channel14/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Canal_15_Nicarag%C3%BCense_2019.png" group-title="SH3K3",CANAL 15
 http://nicatv.rylco.com:8075/Canal15_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Canal 16 Solidaria AR " tvg-logo="" group-title="SH3K3", Canal 16 Solidaria AR http://138.117.4.70:8075/Canal90_Solidaria/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 16 Solidaria AR " tvg-logo="" group-title="SH3K3", Canal 16 Solidaria AR 
+http://138.117.4.70:8075/Canal90_Solidaria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Canal 17 YIREH RADIO TV ONLINE " tvg-logo="" group-title="SH3K3", Canal 17 YIREH RADIO TV ONLINE
 https://vdo.panelchs.com:3629/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="canal 18 ENLACE" tvg-logo=" https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png " group-title="SH3K3", canal 18 ENLACE
@@ -39,7 +40,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 http://nicatv.rylco.com:8075/Canal92_EJTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Canal 20 WTV Nguinea" tvg-logo=" https://yt3.googleusercontent.com/ytc/AL5GRJWcHXVGbRidW5n7KILdFy53Ughc9wRZyWxqu8SCXA=s88-c-k-c0x00ffffff-no-rj" group-title="SH3K3", Canal 20 WTV Nguinea
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 21 ENLACE NICARAGUA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWxJDytpF2biyR2jP4Qhw3rnW72wjy3R7DHHUgkUOMdoRIwmTL” group-title="SH3K3",CANAL 21 ENLACE NICARAGUA 
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 21 NEXO NICARAGUA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWxJDytpF2biyR2jP4Qhw3rnW72wjy3R7DHHUgkUOMdoRIwmTL” group-title="SH3K3",CANAL 21 NEXO NICARAGUA 
 https://stmvideo2.livecastv.com/canal21nic3/canal21nic3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LAROCK 22" tvg-logo="https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/277755150_392517249543920_4823448017837777936_n.jpg" group-title="SH3K3",LAROCK 22
 http://nicatv.rylco.com:8075/Canal22_CooTel/playlist.m3u8
